@@ -1,1 +1,1 @@
-John|Doe|123 Main St.|Anywhere|MI|12345
+Buffalo|Bill|123 Main St.|Le Claire|IA|12345

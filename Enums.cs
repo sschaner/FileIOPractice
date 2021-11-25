@@ -6,7 +6,8 @@ namespace FileIOPractice
 {
     public enum State
     {
-        AL = 0,
+        Invalid = 0,
+        AL = 1,
         AK,
         AZ,
         AR,
